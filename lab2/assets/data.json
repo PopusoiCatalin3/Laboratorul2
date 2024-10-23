@@ -1,0 +1,52 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. David Patel",
+      "specialty": "Cardiologist",
+      "clinic": "Cardiology Center, USA",
+      "rating": "5.0",
+      "reviews": "1,872 Reviews",
+      "image": "assets/doctor1.jpg"
+    },
+    {
+      "name": "Dr. Jessica Turner",
+      "specialty": "Gynecologist",
+      "clinic": "Women’s Clinic, Seattle, USA",
+      "rating": "4.9",
+      "reviews": "127 Reviews",
+      "image": "assets/doctor2.png"
+    },
+    {
+      "name": "Dr. Michael Smith",
+      "specialty": "Dermatologist",
+      "clinic": "Skin Health Clinic, Seattle, USA",
+      "rating": "4.8",
+      "reviews": "210 Reviews",
+      "image": "assets/doctor3.jpg"
+    },
+    {
+      "name": "Dr. Emily Johnson",
+      "specialty": "Pediatrician",
+      "clinic": "Children's Health Center, Seattle, USA",
+      "rating": "4.7",
+      "reviews": "75 Reviews",
+      "image": "assets/doctor4.png"
+    }
+  ],
+  "centers": [
+    {
+      "name": "Sunrise Health Clinic",
+      "address": "123 Oak St, CA",
+      "rating": "5.0",
+      "reviews": "58 Reviews",
+      "image": "assets/hospital1.jpg"
+    },
+    {
+      "name": "Golden Cardiology",
+      "address": "555 Bridge St",
+      "rating": "4.9",
+      "reviews": "104 Reviews",
+      "image": "assets/hospital2.jpg"
+    }
+  ]
+}
